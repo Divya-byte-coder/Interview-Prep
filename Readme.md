@@ -100,7 +100,7 @@ dist
 
 ## 👩‍💻 Author
 
-Made by **Gayathri**
+Made by **Divya**
 
 ---
 
