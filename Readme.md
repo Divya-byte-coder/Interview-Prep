@@ -1,4 +1,4 @@
-# 🎯 InterviewPrep AI
+# 🎯 PrepMate AI-Personalized Interview Preparation & Placement Assistant
 
 A full-stack MERN application that helps developers prepare for technical interviews using AI-powered question generation, interactive Q&A, and smart study tools.
 
